@@ -2,7 +2,7 @@
 
 ![websiteimage](https://user-images.githubusercontent.com/73836674/163588130-bf7eeacb-edc6-455e-832b-49e069cc0bf8.png)
 
-The Corona Help Bot is a simple and user-friendly web-based chatbot designed to provide accurate information and answer questions related to COVID-19. Developed using Microsoft Azure Bot Service, Azure QnA Maker, and Cognitive Services, this innovative chat service offers a seamless experience for users seeking reliable COVID-19 information. With its intelligent responses and vast knowledge base, the Corona Chat Bot ensures that users receive accurate and up-to-date information. The website is hosted on Azure using the feature of Azure Storage Accounts, guaranteeing a secure and efficient platform.
+The Corona Help Bot is a simple and user-friendly web-based chatbot designed to provide accurate information and answer questions related to COVID-19. Developed using Microsoft Azure Bot Service, Azure QnA Maker, and Cognitive Services, this innovative chat service offers a seamless experience for users seeking reliable COVID-19 information. With its intelligent responses and vast knowledge base, the Corona Help Bot ensures that users receive accurate and up-to-date information. The website is hosted on Azure using the feature of Azure Storage Accounts, guaranteeing a secure and efficient platform.
 Website.
 
 ## Features
@@ -16,7 +16,7 @@ The Corona Help Bot offers a range of features to provide comprehensive assistan
 
 ## Implementation
 
-The implementation of the Corona Chat Bot project involved a combination of front-end web development using HTML and CSS, and back-end integration with Microsoft Azure services. To begin with, the website was designed using HTML and CSS to create an intuitive user interface. 
+The implementation of the Corona Help Bot project involved a combination of front-end web development using HTML and CSS, and back-end integration with Microsoft Azure services. To begin with, the website was designed using HTML and CSS to create an intuitive user interface. 
 
 For the chatbot functionality, Microsoft Azure Bot Service was employed. This service enabled the creation of a chatbot that could interact with users, answer their queries, and provide COVID-19-related information. The chatbot was integrated with Azure QnA Maker, which served as the knowledge base for the bot. In QnA Maker, a comprehensive set of Questions and Answers were manually entered, ensuring accurate and informative responses from the chatbot. Additionally, prompts were created to enhance the chatbot's conversational flow and make it feel more human-like.
 
@@ -24,7 +24,7 @@ To host the website and deploy the chatbot, the Azure Storage Accounts feature w
 
 Furthermore, Cognitive Services from Azure were integrated into the chatbot to enhance the user experience. These services provided advanced capabilities such as natural language understanding and sentiment analysis, allowing the chatbot to understand user queries more effectively and deliver accurate responses in a friendly manner.
 
-Overall, the implementation of the Corona Chat Bot project involved leveraging HTML and CSS for website design, integrating with Microsoft Azure Bot Service and QnA Maker for chatbot functionality, hosting the website using Azure Storage Accounts, and incorporating Cognitive Services to enhance the user experience.
+Overall, the implementation of the Corona Help Bot project involved leveraging HTML and CSS for website design, integrating with Microsoft Azure Bot Service and QnA Maker for chatbot functionality, hosting the website using Azure Storage Accounts, and incorporating Cognitive Services to enhance the user experience.
 
 **Please Note**: A valid Azure account subscription is required to access and utilize the services provided by Microsoft Azure, including Azure Bot Service, Azure QnA Maker, Cognitive Services, and Azure Storage Accounts. An active subscription with the necessary permissions is required to configure and deploy projects on the Azure platform when I created the project.
 
